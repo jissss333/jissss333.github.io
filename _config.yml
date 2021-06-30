@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "JISS"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/코뿔소.jpg"
   bio              : "Being a Data Scientist"
   location         : "Seoul, Korea"
   email            : "jissss333@gmail.com"
