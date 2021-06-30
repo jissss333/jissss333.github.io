@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "JISS"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Being Data Scientist"
+  bio              : "Being a Data Scientist"
   location         : "Seoul, Korea"
   email            : "jissss333@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jissss333@gmail.com"
+      # url: "mailto:jissss333@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
